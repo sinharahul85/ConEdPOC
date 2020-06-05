@@ -1,8 +1,11 @@
 {
-"data":[
-{
-    "DownPaymentAmount":"100.00",
-    "DownPaymentDueDate":"20/06/2020"
-}
-]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
