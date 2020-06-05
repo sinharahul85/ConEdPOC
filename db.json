@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
+     "DownPaymentAmount":"100.00",
+     "DownPaymentDueDate":"20/06/2020"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "conedpoc"
   }
 }
